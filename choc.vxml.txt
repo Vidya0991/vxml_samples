@@ -21,6 +21,7 @@ what is your favourite choc???
 <item>sprungli</item>
 <item>lyndt</item>
 <item>frey</item>
+<item>mars</item>
 <one-of>
 </rule>
 </grammar>
