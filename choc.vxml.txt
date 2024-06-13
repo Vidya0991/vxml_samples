@@ -6,7 +6,9 @@
 <field name="favchocalate">
 <prompt>
 what is your favourite choc???
+  My favourite choc is ferrero
 </prompt>
+    
 </field>
 </block>
 </form>
