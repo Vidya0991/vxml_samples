@@ -54,5 +54,8 @@ your fav choclate is sprungli
 <prompt>
  your fav choclate is ghirardelli
 </prompt>
+<prompt>
+i like other chocs too
+</prompt>
 </filled>
 </vxml>
